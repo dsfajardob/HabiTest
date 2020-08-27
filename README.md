@@ -1,6 +1,6 @@
 # Autor: David Santiago Fajardo Barrrera
 
-##Requisitos para ejecuar:
+## Requisitos para ejecuar:
 -Python 3.x
 
 
